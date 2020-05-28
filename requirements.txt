@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+pymc3
+bokeh
+bs4
+tabulate
